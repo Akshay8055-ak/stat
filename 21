@@ -1,7 +1,7 @@
 [Forwarded from Ady]
 <!DOCTYPE html>
 <html>
-    <body bgcolor="white">
+    <body bgcolor="black">
         <fieldset>
         <h2>Enter first number</h2>
         <input type="text" id="n1" name="n1" /><br>
